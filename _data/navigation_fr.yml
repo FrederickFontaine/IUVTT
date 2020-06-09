@@ -1,0 +1,14 @@
+# Navigation Links in French
+main:
+  - title: "Accueil"
+    url: /fr/accueil/
+  - title: "Les parcours"
+    url: /fr/parcours/
+  - title: "Enseignement Commun"
+    url: /fr/enseignement/
+  - title: "Contact"
+    url: /fr/contact/
+  - title: ':gb:'
+    url: /
+
+
