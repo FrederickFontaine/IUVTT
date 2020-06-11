@@ -62,7 +62,7 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 ![Ateliers](/assets/images/parcours/atelierinnovlogo.png){: .align-center}
 
 <div style="text-align: center">
-[En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu)
+[En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu)</div>
 
 
 
