@@ -1,4 +1,14 @@
 var store = [{
+        "title": "Intelligence Territoriale / Border Studies",
+        "excerpt":"Master Intelligence Territoriale (mention Urbanisme et aménagement) L’objectif de cette formation est de former aux métiers de l’aménagement et de l’urbanisme à travers une approche à la fois quantitative, prospective et participative du territoire. Les étudiants sont familiarisés avec la diversité des nouveaux enjeux sociétaux dans les territoires, ainsi qu’avec...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/fr/parcours/parcours-it/",
+        "teaser":"http://localhost:4000/assets/images/parcours/parcoursautre.png"},{
+        "title": "IUVTT",
+        "excerpt":"Master Innovation Urbaine pour des Villes et des Territoires en Transformation Les objectifs de la formation Transition écologique, transformation des modes d’habiter, évolution des mobilités, révolution numérique, Smart City, engagements citoyens, nouveaux modes de consommation illustrent les mutations de nos sociétés et de nos territoires. IUVTT forme des chefs de...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/fr/parcours/parcoursiuvtt/",
+        "teaser":"http://localhost:4000/assets/images/parcours/bannerparcours.jpg"},{
         "title": "Anaëlle Hily",
         "excerpt":"Anaëlle is an industrial Ph.D. student at the University of Lorraine (ERPI) in collaboration with the company TEA. Her work intends to provide protocols and tools to study the interactions (behaviors, emotions) between participants facing immersive reality experiences. The developed tools should provide indicators for the analysis of these experiences...","categories": [],
         "tags": ["VR","spatial cognition","Living Lab"],

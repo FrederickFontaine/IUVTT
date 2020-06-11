@@ -6,9 +6,20 @@ main:
     url: /fr/parcours/
   - title: "Enseignement Commun"
     url: /fr/enseignement/
+  - title: "Contrat Pro"
+    url: /fr/contratpro
   - title: "Contact"
     url: /fr/contact/
   - title: ':gb:'
     url: /
 
+parcours:
+  - title: "Parcours"
+    children:
+      - title: "Parcours-it"
+        url: /fr/parcours/parcours-it/
+      - title: "Parcours-iuvtt"
+        url: /fr/parcours/parcoursiuvtt/
+      
 
+  
