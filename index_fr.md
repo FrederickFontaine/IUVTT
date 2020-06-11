@@ -58,12 +58,12 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 
 
 
-<p align="center">
-<img src="/assets/images/parcours/atelierinnovlogo.png">
-</p>
+
+![Ateliers](/assets/images/parcours/atelierinnovlogo.png){: .align-center}
+
 <div style="text-align: center">
 [En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu)
-</div>
+
 
 
 ### <span style="color: #730978"> Des </span> <span style="color: #F58A01"> "Workshop"</span><span style="color: #730978"> invitant des experts du Territoire pour poser les grandes questions à enjeux telles que : </span> 
