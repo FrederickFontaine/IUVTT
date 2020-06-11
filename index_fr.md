@@ -74,7 +74,7 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 
 
 <p align="center">
-<img src="/assets/images/indexfr/workshop.jpg">
+<img src="IUVTT/assets/images/indexfr/workshop.jpg">
 </p>
 
 ### <span style="color: #730978"> Des </span> <span style="color: #F58A01"> modules de spécialisation</span><span style="color: #730978"> répartis selon six grandes thématiques d’approfondissement *(200 heures, 18 ECTS, 1<sup>er</sup> semestre)*, qui apportent: </span>  
