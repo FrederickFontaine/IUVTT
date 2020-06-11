@@ -145,6 +145,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _site
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
