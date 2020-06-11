@@ -61,8 +61,7 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 
 ![Ateliers](/assets/images/parcours/atelierinnovlogo.png){: .align-center}
 
-<div style="text-align: center">
-[En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu)</div>
+[En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu){: .align-center}
 
 
 
@@ -84,9 +83,9 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 + Une **identification** de nouveaux gisements de transformation pour les villes de demain
 + Un **regard critique** sur les outils, pratiques et enjeux urbains contemporains
 
-<p align="center">
-<img src="/assets/images/indexfr/specialite.png">
-</p>
+
+[Specialité](/assets/images/indexfr/specialite.png){: .align-center}
+
 
 ### <span style="color: #730978"> Une </span> <span style="color: #F58A01"> mise en situation professionnelle</span> <span style="color: #730978">*(760 heures, 30 ECTS, 2<sup>ème</sup> semestre)*</span>  
 
