@@ -12,16 +12,16 @@ last_modified_at: 2020-06-08
 ## Contacts Informations
 
 
-### Parcours IUVTT
+### **Parcours IUVTT**
 Céline DROY  
 Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation  
 8 rue Bastien Lepage  
 BP 90647 - 54010 Nancy Cedex  
 Mail : celine.droy {at} univ-lorraine.fr  
 
-### Parcours Intelligence Territoriale
+### **Parcours Intelligence Territoriale**
 shs-metz-formation-contact {at} univ-lorraine.fr  
 
-### Parcours Border Studies  
+### **Parcours Border Studies**  
 
 shs-metz-formation-contact {at} univ-lorraine.fr

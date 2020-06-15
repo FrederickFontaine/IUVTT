@@ -1,7 +1,7 @@
 ---
 title: Intelligence Territoriale / Border Studies 
 permalink: "/fr/parcours/parcours-it/"
-img-path: "/assets/images/parcours/parcoursautre.png"
+img-path: 
 excerpt: Se former aux métiers de l'aménagement et de l'urbanisme
 header:
   teaser: "/assets/images/parcours/parcoursautre.png"
@@ -25,7 +25,7 @@ L’objectif de cette formation est de former aux métiers de l’aménagement e
 <br>
 ### <span style="color: #730978"> Des </span> <span style="color: #F58A01"> Ateliers d'Innovation Urbaine </span> <span style="color: #730978">*(100 heures, 12 ECTS, 1<sup>er</sup> semestre)*</span>  
 
-![Students](/assets/images/indexfr/workshop.jpg){: .align-right}  
+![Students](/IUVTT/assets/images/indexfr/workshop.jpg){: .align-right}  
 
 Réalisés en partenariat avec des entreprises, des institutions et des territoires, les AIU rassemblent plusieurs spécialités de Master et offrent un terrain original pour :
  
@@ -41,4 +41,4 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 Laboratoires de recherches associés
 ===================================
 
-![LOTERR](assets/images/logo/loterrlogo.jpg)
+![LOTERR](/IUVTT/assets/images/logo/loterrlogo.jpg) ![ERPI](/IUVTT/assets/images/logo/logoerpi.png)
