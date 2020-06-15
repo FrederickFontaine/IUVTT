@@ -20,31 +20,19 @@ L’objectif de cette formation est de former aux métiers de l’aménagement e
 [Contenu détaillé de la formation](https://formations.univ-lorraine.fr/frmaster/2555-master-intelligence-territoriale-mention-urbanisme-et-amenagement.html)
 <br>  
 
--------------------------------------
+--------------------------
 
 <br>
-**<span style="color: #1E4DE1">Les Ateliers d'Innovation Urbaine</span>** - *(100 heures, 1<sup>er</sup> semester, septembre)*
+### <span style="color: #730978"> Des </span> <span style="color: #F58A01"> Ateliers d'Innovation Urbaine </span> <span style="color: #730978">*(100 heures, 12 ECTS, 1<sup>er</sup> semestre)*</span>  
 
-![Atelier d'Innovation Urbaine](/assets/images/parcours/atelierinnov.jpg){: .align-left} 
-<br>
-<br>
-  
-  
+![Students](/assets/images/indexfr/workshop.jpg){: .align-right}  
 
 Réalisés en partenariat avec des entreprises, des institutions et des territoires, les AIU rassemblent plusieurs spécialités de Master et offrent un terrain original pour :
  
-- Apprendre à croiser des expertises  
-
-- Savoir articuler les différentes échelles et temporalités du territoire  
-
-- Développer une stratégie d’intervention sur un territoire en lien avec ses acteurs  
-
-- Mobiliser les ressources de ce territoire et s’appuyer sur ses dynamiques pour construire un projet durable et partagé  
-
-
-
-![Atelier d'Innovation Logo](/assets/images/parcours/atelierinnovlogo.png){: .align-left} 
-<br>
++ **Apprendre** à croiser des expertises
++ **Savoir articuler** les différentes échelles et temporalités du territoire
++ **Développer** une stratégie d’intervention sur un territoire en lien avec ses acteurs
++ **Mobiliser** les ressources de ce territoire et s’appuyer sur ses dynamiques pour construire un projet durable et partagé
 
 [En savoir plus sur les Ateliers d'Innovation Urbaine](https://masterprojter.wixsite.com/lesaiu)
 
@@ -53,4 +41,4 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 Laboratoires de recherches associés
 ===================================
 
-![Loterr](/assets/images/parcours/loterrlogo.png){: .align-left} ![ERPI](/assets/images/parcours/erpilogo.png){: .align-center} 
+![LOTERR](assets/images/logo/loterrlogo.jpg)

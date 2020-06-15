@@ -24,9 +24,9 @@ IUVTT forme des chefs de projets « ensembliers » capables de piloter et d’ac
 
 Des métiers en cours de **réinvention**, qui s'incarnent dans :
  
-+ les collectivités
++ Les collectivités
 + Les entreprises de la construction, des transports, de l'aménagement, etc.
-+ les bureaux d'études 
++ Les bureaux d'études 
 
 Des métiers qui déploient de **nouvelles méthodologies** :
  
@@ -73,7 +73,8 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 
 
 
-![Workshop](/assets/images/indexfr/workshop.jpg){: .align-center}
+![Workshop](/assets/images/indexfr/workshop.jpg){: .align-center}  
+
 
 
 ### <span style="color: #730978"> Des </span> <span style="color: #F58A01"> modules de spécialisation</span><span style="color: #730978"> répartis selon six grandes thématiques d’approfondissement *(200 heures, 18 ECTS, 1<sup>er</sup> semestre)*, qui apportent: </span>  
@@ -81,10 +82,13 @@ Réalisés en partenariat avec des entreprises, des institutions et des territoi
 + Une **compréhension** des **mutations** des territoires urbains et ruraux
 + Une **connaissance** des outils de fabrication de la ville, du territoire et de leurs services
 + Une **identification** de nouveaux gisements de transformation pour les villes de demain
-+ Un **regard critique** sur les outils, pratiques et enjeux urbains contemporains
++ Un **regard critique** sur les outils, pratiques et enjeux urbains contemporains  
 
 
-[Specialité](/assets/images/indexfr/specialite.png){: .align-center}
+
+![Specialité](/assets/images/indexfr/specialite.png){: .align-center}  
+
+
 
 
 ### <span style="color: #730978"> Une </span> <span style="color: #F58A01"> mise en situation professionnelle</span> <span style="color: #730978">*(760 heures, 30 ECTS, 2<sup>ème</sup> semestre)*</span>  
@@ -95,15 +99,16 @@ L’ensemble de la formation est ponctuée par la **découverte des métiers et 
 
 
   
-<p align="center">
-<img src="/assets/images/indexfr/situapro.jpg">
-</p>
+![Situation pro](/assets/images/indexfr/situapro.jpg){: .align-center}  
 
 
 
 ## Laboratoires et dispositifs de recherche associés
 
-[![ERPI](/assets/images/logo/logoerpi.png)](https://erpi.univ-lorraine.fr)  [![LF2L](/assets/images/logo/logolfll.jpg)](https://lf2l.fr)  
+[![ERPI](/assets/images/logo/logoerpi.png)](https://erpi.univ-lorraine.fr){: .align-left}  [![LF2L](/assets/images/logo/logolfll.jpg)](https://lf2l.fr){: .align-center}  
+
+<br>
+
 
 ## Accès à la formation 
 
@@ -123,13 +128,13 @@ IUVTT recrute une **très grande diversité de parcours et de formations**. La p
 
 ## Contacts et infos
 
-**Responsable Parcours IUVTT**
+**Responsable Parcours IUVTT**  
 Pr.Claudine Guidat 
 
-**Co-Responsable Parcours IUVTT pour l'ENSGSI**
+**Co-Responsable Parcours IUVTT pour l'ENSGSI**  
 Ing. Dr. Laurent Dupont 
 
-**Responsable administrative**
+**Responsable administrative**  
 Céline Droy  
 Ecole Nationale Supérieure en Génie des Systèmes et de l'Innovation  
 8 rue Bastien Lepage  
@@ -137,7 +142,7 @@ BP 90647 - 54010 Nancy Cedex
 
 celine.droy {at} univ-lorraine.fr 
 
-**Site web**
+**Site web**  
 https:wwww.ensgsi.univ-lorraine.fr/ 
 
 
