@@ -25,26 +25,5 @@ gallery:
 ---
 
 
-**The joint research laboratory: N-Hum-Inno**
+**English version is coming**
 
-Text 
-
-*Text* 
-
-***Text***  
-
-
-
-## Partners
-
-{% include gallery %}
-
-## Latest News
-
-
-{% include /n-hum-inno/Posts-EN.html %}
-
-
-## Legal notice
-
-text
